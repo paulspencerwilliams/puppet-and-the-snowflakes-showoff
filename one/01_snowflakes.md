@@ -60,11 +60,3 @@
 
 !SLIDE
 #a bit like coding without tests...
-
-!SLIDE bullets incremental
-
-# Bullet Points #
-
-* first point
-* second point
-* third point
