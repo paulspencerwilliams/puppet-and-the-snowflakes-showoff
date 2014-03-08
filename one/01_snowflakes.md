@@ -16,8 +16,20 @@
 !SLIDE 
 #is either a single ice crystal or an aggregation of ice crystals which falls through the Earth's atmosphere 
 
+!SLIDE center
+![Snowflake 1](images/snowflake_1.jpg)
+
+!SLIDE center
+![Snowflake 2](images/snowflake_2.jpg)
+
+!SLIDE center
+![Snowflake 2](images/snowflake_3.jpg)
+
 !SLIDE 
 #each is nearly unique in structure
+
+!SLIDE 
+#influenced by many factors
 
 !SLIDE 
 #a bit like servers
