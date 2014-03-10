@@ -107,6 +107,15 @@ similar to functional
 #PROVE IT!!
 
 !SLIDE
+[https://github.com/paulspencerwilliams/vagrant-clojure]( https://github.com/paulspencerwilliams/vagrant-clojure)
+
+!SLIDE
+[https://github.com/paulspencerwilliams/vagrant-neo4j] (https://github.com/paulspencerwilliams/vagrant-neo4j)
+
+!SLIDE
+[https://github.com/paulspencerwilliams/six-degrees-clj] (https://github.com/paulspencerwilliams/six-degrees-clj)
+
+!SLIDE
 #I bought the wrong computer 
 #:(
 
