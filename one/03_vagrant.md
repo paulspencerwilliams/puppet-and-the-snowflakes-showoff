@@ -96,6 +96,13 @@
 * homebrew
 * chocolateynuget (nuget)
 
+!SLIDE
+#Declarative? (hard)
+similar to functional
+
+!SLIDE
+#Idempotent? (harder)
+
 !SLIDE 
 #PROVE IT!!
 
@@ -112,7 +119,5 @@
 !SLIDE
 #Questions? 
 
-!SLIDE
-#Sketchnote
 
 
