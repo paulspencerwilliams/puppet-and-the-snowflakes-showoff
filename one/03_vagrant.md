@@ -1,4 +1,4 @@
-!SLIDE 
+!SLIDE center
 ![vagrant...](images/Vagrant.png)
 
 !SLIDE
@@ -67,9 +67,11 @@
 !SLIDE
 #Bootstraps software provisioning
 
+!SLIDE
+[https://github.com/paulspencerwilliams/vagrant-neo4j/blob/master/Vagrantfile](https://github.com/paulspencerwilliams/vagrant-neo4j/blob/master/Vagrantfile)
 
 !SLIDE
-#3 options
+#3 software provisioning options 
 
 !SLIDE
 #Imperative shell scripts
@@ -81,6 +83,9 @@
 [http://www.infoq.com/presentations/Simple-Made-Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 
 !SLIDE
+#bash, zsh, powerscript 
+
+!SLIDE
 #apt-get vs yum vs homebrew
 
 !SLIDE
@@ -90,30 +95,24 @@
 ![puppet...](images/puppet-labs-logo.png) 
 
 !SLIDE
-#Declaratively & thus idempotently abstracts
+#Declaratively & idempotently abstracts
 * apt-get
 * yum
 * homebrew
 * chocolateynuget (nuget)
 
 !SLIDE
-#Declarative? (hard)
+#Declarative was hard
 similar to functional
 
 !SLIDE
-#Idempotent? (harder)
+#Idempotent was even harder
 
 !SLIDE 
-#PROVE IT!!
+#Here's one I prepared earlier...
 
 !SLIDE
-[https://github.com/paulspencerwilliams/vagrant-clojure]( https://github.com/paulspencerwilliams/vagrant-clojure)
-
-!SLIDE
-[https://github.com/paulspencerwilliams/vagrant-neo4j] (https://github.com/paulspencerwilliams/vagrant-neo4j)
-
-!SLIDE
-[https://github.com/paulspencerwilliams/six-degrees-clj] (https://github.com/paulspencerwilliams/six-degrees-clj)
+[http://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon](http://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon)
 
 !SLIDE
 #I bought the wrong computer 
@@ -123,7 +122,28 @@ similar to functional
 #I hack with lots of things 
 
 !SLIDE
-[http://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon](http://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon)
+[https://github.com/paulspencerwilliams/six-degrees-clj] (https://github.com/paulspencerwilliams/six-degrees-clj)
+
+!SLIDE
+[https://github.com/paulspencerwilliams/vagrant-neo4j] (https://github.com/paulspencerwilliams/vagrant-neo4j)
+
+!SLIDE
+[https://github.com/paulspencerwilliams/vagrant-clojure]( https://github.com/paulspencerwilliams/vagrant-clojure)
+
+!SLIDE
+#Findings...
+
+!SLIDE
+#Declarative is hard
+
+!SLIDE
+#Idempotent is even harder
+
+!SLIDE
+#I now need to learn librarian-puppet / r10k
+
+!SLIDE
+#Infrastructure as code is great
 
 !SLIDE
 #Questions? 

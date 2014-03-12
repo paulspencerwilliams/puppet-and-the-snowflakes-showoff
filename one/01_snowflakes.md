@@ -38,9 +38,6 @@
 #more like developer machines 
 
 !SLIDE
-#similarly formed
-
-!SLIDE
 #what's good?
 
 !SLIDE

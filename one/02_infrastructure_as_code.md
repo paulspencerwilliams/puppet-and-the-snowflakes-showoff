@@ -5,7 +5,7 @@
 One day I had this fantasy of starting a certification service for operations. The certification assessment would consist of a colleague and I turning up at the corporate data center and setting about critical production servers with a baseball bat, a chainsaw, and a water pistol. The assessment would be based on how long it would take for the operations team to get all the applications up and running again.
 
 !SLIDE
-Netflix Simian Army
+#Netflix Simian Army
 
 !SLIDE
 [http://martinfowler.com/bliki/PhoenixServer.html](http://martinfowler.com/bliki/PhoenixServer.html)
