@@ -10,6 +10,9 @@ One day I had this fantasy of starting a certification service for operations. T
 !SLIDE
 [http://martinfowler.com/bliki/PhoenixServer.html](http://martinfowler.com/bliki/PhoenixServer.html)
 
+!SLIDE
+[http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592](http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592)
+
 !SLIDE 
 #virtualisation
 
