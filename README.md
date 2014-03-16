@@ -1,4 +1,16 @@
 puppet-and-the-snowflakes-showoff
 =================================
 
-My BlackPepper brown bag talk on Puppet slide deck using Showoff
+On Thursday 13th March, I ran my first BlackPepper brown bag session on the subject of snowflake servers, immutable services, infrastructure as code and Puppet, Vagrant and Docker. I enjoyed myself, I hope others enjoyed the session and I certainly learnt a fair bit primarily on Puppet and Vagrant. 
+
+This repo contains the ShowOff based slidedeck that supported the session, and I have seperate GitHub repos that contain the Application Server and Graph Database Server Vagrant / Puppet instances supporting this session. 
+
+To run this slidedeck, assuming you have a recently Ruby installed, install Showoff, clone this repo and then run Showoff in the root of this repo. This should do the trick:
+
+    gem install showoff
+    git clone git@github.com:paulspencerwilliams/puppet-and-the-snowflakes-showoff.git
+    cd puppet-and-the-snowflakes-showoff
+    showoff serve
+    
+
+    
